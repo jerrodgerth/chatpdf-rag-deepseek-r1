@@ -1,0 +1,8 @@
+# byte-compiled / optimized / dll files
+__pycache__/
+
+# virtual environment
+.venv/
+
+# ChromaDB
+chroma_db/
